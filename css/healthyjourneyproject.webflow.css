@@ -2,7 +2,7 @@ body {
   font-family: Poppins, sans-serif;
   color: #232d0a;
   font-size: 20px;
-  line-height: 20px;
+  line-height: 20px;  
 }
 
 h1 {
@@ -185,6 +185,7 @@ h1 {
 }
 
 .navbar {
+  max-width: 1160px;
   position: static;
   left: 0%;
   top: 0%;
