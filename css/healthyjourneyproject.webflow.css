@@ -205,6 +205,8 @@ h1 {
 }
 
 .nav-link {
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 11px;
   margin-bottom: 0px;
   padding: 10px 15px 20px;
